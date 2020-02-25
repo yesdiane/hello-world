@@ -1,2 +1,4 @@
 # hello-world
-trying to learn
+
+
+Hi! I am Diane Lee, a 3rd year at Duke University. 
